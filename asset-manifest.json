@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carrentalsystem/static/css/main.e6c13ad2.css",
+    "main.js": "/carrentalsystem/static/js/main.6d3650f6.js",
+    "static/js/453.a1f3123a.chunk.js": "/carrentalsystem/static/js/453.a1f3123a.chunk.js",
+    "index.html": "/carrentalsystem/index.html",
+    "main.e6c13ad2.css.map": "/carrentalsystem/static/css/main.e6c13ad2.css.map",
+    "main.6d3650f6.js.map": "/carrentalsystem/static/js/main.6d3650f6.js.map",
+    "453.a1f3123a.chunk.js.map": "/carrentalsystem/static/js/453.a1f3123a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6d3650f6.js"
+  ]
+}

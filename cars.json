@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "image": "images//Toyota/Corolla.png",
+    "make": "Toyota",
+    "model": "CorollA",
+    "year": 2019,
+    "price": 50,
+    "availability": []
+  },
+  {
+    "id": 2,
+    "image": "images//Toyota/Hilux.png",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2021,
+    "price": 45,
+    "availability": []
+  },
+  {
+    "id": 3,
+    "image": "images//Toyota/Fortuner.png",
+    "make": "Toyota",
+    "model": "Fortuner",
+    "year": 2019,
+    "price": 45,
+    "availability": []
+  },
+  {
+    "id": 4,
+    "image": "images//Toyota/Innova Crysta.png",
+    "make": "Toyota",
+    "model": "Innova Crysta",
+    "year": 2019,
+    "price": 35,
+    "availability": []
+  },
+  {
+    "id": 5,
+    "image": "images//VolksWagen/Golf GTI.png",
+    "make": "VolksWagen",
+    "model": "Golf GTI",
+    "year": 2019,
+    "price": 45,
+    "availability": []
+  },
+  {
+    "id": 6,
+    "image": "images//VolksWagen/Troq.png",
+    "make": "VolksWagen",
+    "model": "Troq",
+    "year": 2019,
+    "price": 50,
+    "availability": []
+  },
+  {
+    "id": 7,
+    "image": "images//VolksWagen/polo.png",
+    "make": "VolksWagen",
+    "model": "Polo",
+    "year": 2019,
+    "price": 40,
+    "availability": []
+  },
+  {
+    "id": 8,
+    "image": "images//VolksWagen/jetta.png",
+    "make": "VolksWagen",
+    "model": "Jetta",
+    "year": 2019,
+    "price": 45,
+    "availability": []
+  },
+  {
+    "id": 9,
+    "image": "images//Skoda/yeti.png",
+    "make": "Skoda",
+    "model": "Yeti",
+    "year": 2020,
+    "price": 40,
+    "availability": []
+  },
+  {
+    "id": 10,
+    "image": "images//Skoda/Fabia.png",
+    "make": "Skoda",
+    "model": "Fabia",
+    "year": 2016,
+    "price": 30,
+    "availability": []
+  },
+  {
+    "id": 11,
+    "image": "images//Skoda/superb.png",
+    "make": "Skoda",
+    "model": "Superb",
+    "year": 2019,
+    "price": 45,
+    "availability": []
+  },
+  {
+    "id": 12,
+    "image": "images//Tesla/S.png",
+    "make": "Tesla",
+    "model": "Model S",
+    "year": 2014,
+    "price": 40,
+    "availability": []
+  },
+  {
+    "id": 13,
+    "image": "images//Tesla/3.png",
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2016,
+    "price": 35,
+    "availability": []
+  },
+  {
+    "id": 14,
+    "image": "images//Tesla/X.png",
+    "make": "Tesla",
+    "model": "Model X",
+    "year": 2018,
+    "price": 50,
+    "availability": []
+  },
+  {
+    "id": 15,
+    "image": "images//Tesla/Y.png",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2019,
+    "price": 45,
+    "availability": []
+  },
+  {
+    "id": 16,
+    "image": "images//Mercedes/S 550 Coupe.png",
+    "make": "Mercedes",
+    "model": "S 550 Coupe",
+    "year": 2015,
+    "price": 50,
+    "availability": []
+  },
+  {
+    "id": 17,
+    "image": "images//Mercedes/A54 AMG.png",
+    "make": "Mercedes",
+    "model": "A54 AMG",
+    "year": 2019,
+    "price": 40,
+    "availability": []
+  },
+  {
+    "id": 18,
+    "image": "images//Mercedes/AMG GT.png",
+    "make": "Mercedes",
+    "model": "AMG GT",
+    "year": 2018,
+    "price": 80,
+    "availability": []
+  },
+  {
+    "id": 19,
+    "image": "images//Mercedes/S-Class Convertible.png",
+    "make": "Mercedes",
+    "model": "S-Class Convertible",
+    "year": 2017,
+    "price": 55,
+    "availability": []
+  },
+  {
+    "id": 20,
+    "image": "images//Mercedes/CLS.png",
+    "make": "Mercedes",
+    "model": "CLS",
+    "year": 2017,
+    "price": 40,
+    "availability": []
+  },
+  {
+    "id": 21,
+    "image": "images//BMW/M2.png",
+    "make": "BMW",
+    "model": "M2",
+    "year": 2019,
+    "price": 40,
+    "availability": []
+  },
+  {
+    "id": 22,
+    "image": "images//BMW/320i Sedan.png",
+    "make": "BMW",
+    "model": "320i Sedan",
+    "year": 2016,
+    "price": 45,
+    "availability": []
+  },
+  {
+    "id": 23,
+    "image": "images/BMW/X6.png",
+    "make": "BMW",
+    "model": "X6",
+    "year": 2019,
+    "price": 55,
+    "availability": []
+  },
+  {
+    "id": 24,
+    "image": "images/BMW/7 Series F01.png",
+    "make": "BMW",
+    "model": "7 Series F01",
+    "year": 2016,
+    "price": 65,
+    "availability": []
+  },
+  {
+    "id": 25,
+    "image": "images/Hyundai/Tucson.png",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": 2019,
+    "price": 40,
+    "availability": []
+  },
+  {
+    "id": 26,
+    "image": "images/Hyundai/i20.png",
+    "make": "Hyundai",
+    "model": "i20",
+    "year": 2021,
+    "price": 30,
+    "availability": []
+  },
+  {
+    "id": 27,
+    "image": "images/Honda/WR-V.png",
+    "make": "Honda",
+    "model": "WR-V",
+    "year": 2019,
+    "price": 30,
+    "availability": []
+  },
+  {
+    "id": 28,
+    "image": "images/Honda/Civic.png",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "price": 50,
+    "availability": []
+  },
+  {
+    "id": 29,
+    "image": "images/Honda/City.png",
+    "make": "Honda",
+    "model": "City",
+    "year": 2018,
+    "price": 35,
+    "availability": []
+  },
+  {
+    "id": 30,
+    "image": "images/Honda/HR-V.png",
+    "make": "Honda",
+    "model": "HR-V",
+    "year": 2016,
+    "price": 45,
+    "availability": []
+  },
+  {
+    "id": 31,
+    "image": "images/Audi/RS7.png",
+    "make": "Audi",
+    "model": "RS7",
+    "year": 2019,
+    "price": 65,
+    "availability": []
+  },
+  {
+    "id": 32,
+    "image": "images/Audi/A1.png",
+    "make": "Audi",
+    "model": "A1",
+    "year": 2017,
+    "price": 40,
+    "availability": []
+  },
+  {
+    "id": 33,
+    "image": "images/Audi/Q1.png",
+    "make": "Audi",
+    "model": "Q1",
+    "year": 2016,
+    "price": 40,
+    "availability": []
+  },
+  {
+    "id": 34,
+    "image": "images/Audi/S8.png",
+    "make": "Audi",
+    "model": "S8",
+    "year": 2017,
+    "price": 70,
+    "availability": []
+  }
+]
